@@ -96,3 +96,35 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+
+
+# Dicsys Academy
+
+
+## 📖 Project Overview
+
+This repository hosts the **Git Fundamentals** project for the Dicsys Academy - Data Engineer certification. It is built with **NestJS** modules and **TypeScript** strict typing.
+
+## 🛠 Tech Stack
+
+| Technology |
+|------------|
+| **NestJS** |
+| **TypeScript** |
+| **Git** |
+
+## 👨‍💻 Author & Maintainer
+
+### Bautista Calvo
+**Aspiring Data Engineer & Backend Developer**
+
+| Contact | Link |
+|---------|------|
+| 💼 **LinkedIn** | linkedin.com/in/bautistacalvo |
+| 🐙 **GitHub** | github.com/Calvo-Bautista |
+| 📧 **Email** | calvobautista31@gmail.com |
+
+---
+<p align="center"><i>Developed for Dicsys Academy 2025</i></p>
