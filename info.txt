@@ -1,0 +1,25 @@
+TRABAJO PRACTICO
+=================
+
+Project: Dicsys Academy - Git Module
+Stack: NestJS
+Author: Calvo Bautista
+
+PROFESSIONAL OBJECTIVE
+----------------------
+As a developer passionate about building scalable and efficient software solutions, my goal is to master the tools that enable high-performing teams to collaborate effectively. I view Git not just as a version control system, but as a fundamental pillar of modern workflows and agile methodologies.
+
+PROJECT VISION
+--------------
+This repository serves as a practical application of advanced Git concepts within a real-world backend architecture. The focus extends beyond writing code to maintaining a clean, understandable, and collaborative history.
+
+KEY LEARNING OUTCOMES
+---------------------
+1. **Advanced Version Control**: Mastering branching strategies (Git Flow), merge conflict resolution, and rebasing to keep a linear and clean history.
+3. **Collaboration & Quality**: Implementing best practices in commit messaging and code reviews to ensure long-term maintainability.
+
+Why Git Matters?
+----------------
+I think that code is read much more often than it is written, so a clean Git history tells the story of the project, making onboarding easier and debugging faster.
+
+I want to contribute to the Dicsys develop team, taking advantage of these skills to deliver high-quality software.
